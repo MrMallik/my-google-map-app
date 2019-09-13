@@ -6,7 +6,8 @@ Python script to directly search for a place on Google Maps from the commandline
 
 # USAGE : map_app.py _query_
 
-where, query is the place you'd like to search on Google Maps
+where, 
+*query* is the place you'd like to search on Google Maps
 
 # WHAT DOES IT DO?
 
@@ -20,7 +21,8 @@ where, query is the place you'd like to search on Google Maps
 
         now + " : \'"+query+"\'" + "\n\n
 
-where, *now* is the current timestamp
+where,
+*now* is the current timestamp
 
 5. Finally, the *webbrowser* module is then used to open the url generated in the default web browser above as documented at [3]
 
