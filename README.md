@@ -7,7 +7,7 @@ Python script to directly search for a place on Google Maps from the commandline
 # REQUIREMENT
 Python3 is needed to run this script. If not installed in your system, install it from https://www.python.org/downloads/
 
-# USAGE : map_app.py _query_
+# USAGE : python map_app.py _query_
 
 where, 
 *query* is the place you'd like to search on Google Maps
