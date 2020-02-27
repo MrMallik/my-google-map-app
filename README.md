@@ -12,6 +12,6 @@ Python3 is needed to run this script. If not installed in your system, install i
 where, 
 *query* is the place you'd like to search on Google Maps
 
-#Contributor
+# Contributors
 
 - Pritabrata Mallik
